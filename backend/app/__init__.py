@@ -1,0 +1,1 @@
+"""Ritz shopping API."""
